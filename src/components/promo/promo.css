@@ -163,6 +163,8 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     margin-right: 0;
     margin-bottom: 2rem;
     width: 100%;
+    left: 40px;
+    position: relative;
   }
 
   .promo-title {
@@ -171,6 +173,8 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-size: 24px;
     line-height: 30px;
     width: 100%;
+    display: flex;
+    align-items: flex-end;
   }
 
   .promo-button {
@@ -183,8 +187,8 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     position: absolute;
     width: 325px;
     height: 47.31px;
-    left: 39px;
-    top: 1570px;
+    left: 0px;
+    top: 550px;
 
   }
 
