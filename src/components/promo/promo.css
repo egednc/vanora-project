@@ -149,7 +149,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   left: 22%;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 420px) {
   .promo-section {
     height: 520px;
   }
@@ -162,6 +162,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   .promo-content {
     margin-right: 0;
     margin-bottom: 2rem;
+    width: 100%;
   }
 
   .promo-title {
@@ -169,6 +170,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-weight: 700;
     font-size: 24px;
     line-height: 30px;
+    width: 100%;
   }
 
   .promo-button {
@@ -177,12 +179,12 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
       height: 47px;
       */
 
-    gap: 16px;
+
     position: absolute;
-    width: 350px;
+    width: 325px;
     height: 47.31px;
-    left: 35px;
-    top: 1550px;
+    left: 39px;
+    top: 1570px;
 
   }
 
